@@ -12,11 +12,7 @@ Welcome to my GitHub! I'm a **Senior Application Systems Administrator** with a 
 ✔️ Systems Administration & Identity Management  
 ✔️ Security & Compliance  
 
-[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)  
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)  
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)  
-[![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)  
-[![Atlassian](https://img.shields.io/badge/Atlassian-0052CC?style=flat&logo=atlassian&logoColor=white)](https://www.atlassian.com/)  
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/) | [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) | [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/) | [![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/) | [![Atlassian](https://img.shields.io/badge/Atlassian-0052CC?style=flat&logo=atlassian&logoColor=white)](https://www.atlassian.com/)  
 
 ---
 
@@ -60,7 +56,7 @@ Welcome to my GitHub! I'm a **Senior Application Systems Administrator** with a 
 - **Minor:** Management Information Systems  
 - **Certification:** Systems Development  
 
-🎓 **A.A in Business Administration**  
+🎓 **A.A. in Business Administration**  
 *Iowa Western Community College* *(Dec 2011)*  
 
 🎖 **Technical Certifications**  
