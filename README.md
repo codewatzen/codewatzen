@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a **Senior Application Systems Administrator** with a 
 
 ## 📊 GitHub Stats
 [![codewatzen's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewatzen&show_icons=true&theme=radical)](https://github.com/codewatzen)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewatzen&theme=dark" alt="codewatzen" /></a> </p>
+!["https://github-profile-trophy.vercel.app/?username=codewatzen&theme=dark"]("https://github.com/ryo-ma/github-profile-trophy")
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=codewatzen)
 
 💡 **Key Areas of Expertise:**  
