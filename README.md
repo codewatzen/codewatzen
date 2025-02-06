@@ -11,6 +11,8 @@ Welcome to my GitHub! I'm a **Senior Application Systems Administrator** with a 
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=codewatzen)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewatzen&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 💡 **Key Areas of Expertise:**  
 ✔️ DevOps & Cloud Infrastructure  
 ✔️ IT Automation & Scripting  
