@@ -1,7 +1,6 @@
 # Cody Watzen | Senior Systems Administrator  
 🚀 **Automation | DevOps | IT Infrastructure | Cybersecurity**  
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=codewatzen)
----
 
 ## 👋 About Me  
 Welcome to my GitHub! I'm a **Senior Application Systems Administrator** with a passion for **automation, system optimization, cybersecurity, and open-source projects**. I thrive on streamlining workflows, enhancing security, and leveraging **DevOps methodologies** to improve efficiency.  
@@ -12,7 +11,7 @@ Welcome to my GitHub! I'm a **Senior Application Systems Administrator** with a 
 ✔️ Systems Administration & Identity Management  
 ✔️ Security & Compliance  
 
-[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/) | [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) | [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/) | [![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/) | [![Atlassian](https://img.shields.io/badge/Atlassian-0052CC?style=flat&logo=atlassian&logoColor=white)](https://www.atlassian.com/)  
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/) [![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/) [![Atlassian](https://img.shields.io/badge/Atlassian-0052CC?style=flat&logo=atlassian&logoColor=white)](https://www.atlassian.com/)  
 
 ---
 
@@ -70,6 +69,6 @@ Welcome to my GitHub! I'm a **Senior Application Systems Administrator** with a 
 🔗 **GitHub:** [github.com/codewatzen](https://github.com/codewatzen)  
 🔗 **LinkedIn:** [linkedin.com/in/cody-watzen](https://linkedin.com/in/cody-watzen)  
 🔗 **freeCodeCamp:** [freecodecamp.org/codewatzen](https://www.freecodecamp.org/codewatzen)  
-📧 **Email:** cody.watzen@example.com  
+📧 **Email:** [cwatzen@gmail.com](mailto:cwatzen@gmail.com)  
 
 💡 *Open to collaboration on automation projects, DevOps initiatives, and IT optimization solutions!*  
