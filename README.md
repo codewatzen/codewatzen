@@ -5,7 +5,9 @@
 Welcome to my GitHub! I'm a **Senior Application Systems Administrator** with a passion for **automation, system optimization, cybersecurity, and open-source projects**. I thrive on streamlining workflows, enhancing security, and leveraging **DevOps methodologies** to improve efficiency.  
 
 ## 📊 GitHub Stats
-          [![codewatzen's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewatzen&show_icons=true&theme=radical)](https://github.com/codewatzen)
+<div align="center">
+[![codewatzen's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewatzen&show_icons=true&theme=radical)](https://github.com/codewatzen)
+</div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=codewatzen)](https://github.com/ryo-ma/github-profile-trophy)
 
