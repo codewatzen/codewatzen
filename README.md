@@ -64,7 +64,7 @@ Welcome to my GitHub! I'm a **Senior Application Systems Administrator** with a 
 🎓 **A.A. in Business Administration**  
 *Iowa Western Community College* *(Dec 2011)*  
 
-🎖 **Technical Certifications**  
+🎖 **Technical Certifications**
 - **Responsive Web Design Certification** – *freeCodeCamp* *(Sep 2018)*  
 - **Legacy JavaScript Algorithms & Data Structures** – *freeCodeCamp* *(Oct 2018)*
 - **Pre Security** - *TryHackMe* *(Aug 2023)*
