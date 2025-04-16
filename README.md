@@ -75,8 +75,9 @@ Welcome to my GitHub! I'm a **Senior Application Systems Administrator** with a 
 ## 📫 Let's Connect!  
 
 🔗 **GitHub:** [github.com/codewatzen](https://github.com/codewatzen)  
-🔗 **LinkedIn:** [linkedin.com/in/cody-watzen](https://linkedin.com/in/cody-watzen)  
+🔗 **LinkedIn:** [linkedin.com/in/codywatzen](https://linkedin.com/in/codywatzen)  
 🔗 **freeCodeCamp:** [freecodecamp.org/codewatzen](https://www.freecodecamp.org/codewatzen)  
+🔗 **TryHackMe** [tryhackme.com/codewatzen](https://tryhackme.com/p/codewatzen)
 📧 **Email:** [cwatzen@gmail.com](mailto:cwatzen@gmail.com)  
 
 💡 *Open to collaboration on automation projects, DevOps initiatives, and IT optimization solutions!*  
