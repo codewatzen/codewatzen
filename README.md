@@ -66,7 +66,9 @@ Welcome to my GitHub! I'm a **Senior Application Systems Administrator** with a 
 
 🎖 **Technical Certifications**  
 - **Responsive Web Design Certification** – *freeCodeCamp* *(Sep 2018)*  
-- **Legacy JavaScript Algorithms & Data Structures** – *freeCodeCamp* *(Oct 2018)*  
+- **Legacy JavaScript Algorithms & Data Structures** – *freeCodeCamp* *(Oct 2018)*
+- **Pre Security - *TryHackMe* *(Aug 2023)*
+- **Intro to Cyber Security - *TryHackMe* *(Aug 2023)*
 
 ---
 
